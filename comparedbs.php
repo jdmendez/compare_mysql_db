@@ -1,7 +1,7 @@
 <?php
 //Script written by Jorge D. Mendez Rios
 //Email jdmendez at infomedicint.com
-//Licence GNU. April 2023.
+//License GNU GPL v3.0. April 2023.
 
 
 //MySQL configuration.
